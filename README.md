@@ -1,3 +1,3 @@
 boo
 
-[![roofline.dev](https://dev.roofline.dev/api/users/oxrinz/badge.svg)](https://roofline.dev/users/oxrinz)
+[![roofline.dev](https://roofline.dev/api/users/oxrinz/badge.svg?style=compact)](https://roofline.dev/users/oxrinz)
